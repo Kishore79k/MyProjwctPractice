@@ -1,2 +1,2 @@
-# MyProjwctPractice
+# MyProjectPractice
 my first project
